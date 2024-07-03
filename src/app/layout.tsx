@@ -30,7 +30,6 @@ export default function RootLayout({
 
         <Link style={{margin:"7px"}}  href="/">home</Link>
         <Link style={{margin:"7px"}}  href="/posts">posts</Link>
-        <Link style={{margin:"7px"}}  href="/events">events</Link>
        
  
         </nav>
